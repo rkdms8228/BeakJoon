@@ -1,6 +1,6 @@
 package com.gaeun.ex01;
 
-public class Main {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		
